@@ -3,3 +3,8 @@ keybind = super+ctrl+h=goto_split:left
 keybind = super+ctrl+j=goto_split:down
 keybind = super+ctrl+k=goto_split:up
 keybind = super+ctrl+l=goto_split:right
+
+font-size = 14
+theme = Gruvbox Dark Hard
+window-padding-x = 10
+window-padding-y = 10

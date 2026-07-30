@@ -3,3 +3,15 @@ keybind = super+ctrl+h=goto_split:left
 keybind = super+ctrl+j=goto_split:down
 keybind = super+ctrl+k=goto_split:up
 keybind = super+ctrl+l=goto_split:right
+keybind = super+ctrl+shift+h=resize_split:left,100
+keybind = super+ctrl+shift+j=resize_split:down,100
+keybind = super+ctrl+shift+k=resize_split:up,100
+keybind = super+ctrl+shift+l=resize_split:right,100
+
+font-size = 14
+theme = Gruvbox Dark Hard
+window-padding-x = 10
+window-padding-y = 10
+copy-on-select = clipboard
+macos-option-as-alt = left
+macos-titlebar-style = tabs
